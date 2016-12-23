@@ -8,3 +8,5 @@ Three things I found in this project:
 1. system("cls") is more easily for me to code in this case, although it's not a efficient method.
 2. I have tried to use gotoxy(), but it's a little bit complicate.
 3. Still many parts can be improved, such as snow falling animation. But I have no time to add them....TAT
+
+2016/12/23 edited:Thanks stdio2016. Now This Christmas-card supports Linux.
